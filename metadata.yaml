@@ -1,0 +1,26 @@
+_repo: Scenes-in-North-Wales-With-Historical-Illustrations-Legends-and-Biographical-Notices_52885
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, G. N. (George Newenham)
+    alias: Wright, George Newenham
+    deathdate: 1877
+    gutenberg_agent_id: '47102'
+    url: http://www.gutenberg.org/2009/agents/47102
+description: ''
+gutenberg_issued: '2016-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52885'
+  lccn: '03016750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wales, North -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+title: "Scenes in North Wales\r\nWith Historical Illustrations, Legends, and Biographical\
+  \ Notices"
+url: http://www.gutenberg.org/ebooks/52885
